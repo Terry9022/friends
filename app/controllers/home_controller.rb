@@ -1,6 +1,7 @@
 class HomeController < ApplicationController
   def index
   end
-end
 
-# test2
+  def about
+  end
+end
